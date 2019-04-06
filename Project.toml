@@ -1,0 +1,9 @@
+name = "RAS"
+uuid = "4a49da76-57ee-11e9-0692-333147457c74"
+authors = ["Tom Watson <tom.m.watson@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+QuickCheck = "20551128-dda7-5c66-a7fe-d80839fe9f30"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
